@@ -1,0 +1,3 @@
+Book Name,Price,Rating
+The Psychology of Money,499,4.5
+Atomic Habits,389,4.7

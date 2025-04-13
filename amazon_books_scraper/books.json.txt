@@ -1,0 +1,4 @@
+[
+  {"Book Name": "The Psychology of Money", "Price": 499, "Rating": 4.5},
+  {"Book Name": "Atomic Habits", "Price": 389, "Rating": 4.7}
+]
